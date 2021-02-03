@@ -73,7 +73,7 @@ function draw() {
         
     }else if(swordGroup.isTouching(boy)) {
         swordGroup.destroyEach(); 
-       gameState=END;
+       
     }
   
   
